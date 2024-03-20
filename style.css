@@ -1,0 +1,54 @@
+.btn-Buy{
+    background-color:  rgb(87, 87, 198);
+    color: white;
+    width: 150px;
+}
+.landingicon{
+    color:rgb(87, 87, 198);
+    font-weight: 600;
+}
+.img_section{
+    width:760px ;
+    height:600px ;
+    /* top: -49px; */
+    margin-left: -370px;
+    
+
+}
+.otherSection {
+    width:300px ;
+    height:400px ;
+    /* top: -49px; */
+    /* margin-left: -370px; */
+}
+.imgdiv{
+    margin-top: -100px ;
+}
+.introProduct{
+    font-weight: 900;
+    font-size: 30px;
+}
+.lorenP,.introProduct{
+    width: 500px;
+
+}
+.Purchase{
+    background-color:  rgb(87, 87, 198);
+    color: white;
+    width: 150px;
+    border-color: rgba(240, 248, 255, 0);
+}
+.LearnMore{
+    background-color: rgba(250, 235, 215, 0);
+    width: 150px;
+}
+
+.priceSection{
+    border : 3px solid black;
+    border-radius: 25px;
+    background-color: rgb(195, 210, 232);
+}
+.title{
+    font-weight: 600;
+    font-size: 20px;
+}
